@@ -1,0 +1,13 @@
+{
+  "name": "privyBackend",
+  "version": "0.1",
+  "description": "backend containing privy logic",
+  "scripts": {
+    "start": "npx nodemon ./src/main.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
